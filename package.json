@@ -1,0 +1,15 @@
+{
+  "name": "fastify-oas-enum-issue",
+  "version": "1.0.0",
+  "description": "Sample program to outline a fastify-oas issue with an enum in a param",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonah Rosenberg",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^1.9.0",
+    "fastify-oas": "^0.4.4"
+  }
+}
