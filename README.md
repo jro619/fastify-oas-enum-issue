@@ -1,0 +1,1 @@
+# fastify-oas-enum-issue
